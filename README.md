@@ -7,7 +7,10 @@ Once installed, open up your terminal or cmd to install flask.
 
 
 Run : just run python file using.
+
 	python FlaskApi.py
+
+After that this will show the local http adress.
 
 	 * Serving Flask app 'FlaskApi'
 	 * Debug mode: off
