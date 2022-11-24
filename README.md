@@ -20,6 +20,7 @@ After that this will show the local http adress.
 
 By default, the port is 5000. After that you can reach created api with requests.
 
+When flask app running, api is reachable with using get requests.
 
 Access Characters : http://127.0.0.1:5000/character/
 
