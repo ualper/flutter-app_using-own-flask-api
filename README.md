@@ -3,7 +3,9 @@
 
 Once installed, open up your terminal or cmd to install flask.
 
-	pip install Flask
+	pip install Flask 
+	or 
+	brew install Flask (for mac)
 
 
 Run : just run python file using.
