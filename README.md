@@ -45,3 +45,12 @@ When flask app running, api is reachable with using get requests.
 Access Characters : http://127.0.0.1:5000/character/
 
 Access a single character : http://127.0.0.1:5000/character/10
+
+
+
+# Preview of the app : 
+
+https://user-images.githubusercontent.com/55507463/204144908-7555bad3-725b-45da-b5c5-65a8e399cbf2.mp4
+
+
+
