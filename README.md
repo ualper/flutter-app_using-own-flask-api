@@ -1,16 +1,34 @@
 # flutter-app_using-own-flask-api
+Flask is one of the most popular web application frameworks written in Python. It is a microframework designed for an easy and quick start. Extending with tools and libraries adds more functionality to Flask for more complex projects.
 
 
-Once installed, open up your terminal or cmd to install flask.
+Prerequisites
+    * Installed Python 2.7 or Python 3
 
-	pip install Flask 
-	or 
-	brew install Flask (for mac)
+Step 1: Install Virtual Environment
 
+    Linux : sudo apt install python-virtualenv
+    Mac : sudo python2 -m pip install virtualenv
 
-Run : just run python file using.
+Step 2: Create an Environment
 
-	python FlaskApi.py
+    mkdir <project name> 
+    cd <project name>
+
+    Linux: python3 -m venv <name of environment>
+    Mac : python3 -m venv <name of environment>
+
+Step 3: Activate the Environment
+
+    . <name of environment>/bin/activate
+
+Step 4: Install Flask
+	
+    pip install Flask
+
+Step 5: Test the Development Environment
+	
+    flask run
 
 After that this will show the local http adress.
 
