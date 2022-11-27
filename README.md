@@ -28,7 +28,7 @@ Step 4: Install Flask
 
 Step 5: Test the Development Environment
 	
-    flask run
+    python FlaskApi.py or flask run
 
 After that this will show the local http adress.
 
